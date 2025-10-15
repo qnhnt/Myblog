@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<p class="meta">Posted on {{ page.date | date_to_string }}</p>
+
+<span>
+	{% for tag in page.tags %}
+		<a href="/tags/{{ tag }}"> {{ tag }} </a> 
+	{% endfor %}
+</span>
+
+{{ content }}
+
+<code> <p style="color: green;">最后更新：{{ page.date | date: "%F" }}</p> </code>

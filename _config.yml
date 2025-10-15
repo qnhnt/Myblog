@@ -1,0 +1,16 @@
+title: TaoJunYi
+# description: My blog.
+lang: zh
+locale: zh-Hans
+url: "https://taojunyi.com"
+logo: /assets/images/catfish.jpg
+
+baseurl: ""
+timezone: "Asia/Shanghai"
+permalink: :title
+
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
