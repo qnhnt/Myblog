@@ -1,5 +1,6 @@
 ---
 title: blog
+permalink: /blog/
 layout: default
 ---
 
