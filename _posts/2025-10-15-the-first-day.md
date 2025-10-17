@@ -2,7 +2,7 @@
 title: "100天挑战的第一天"
 date: 2025-10-15 17:17:00 +0800
 description: 这是百天博客挑战的第一天，这个新网站上的第一篇文章
-tag: 100days-to-offload
+tags: 100days-to-offload blog
 permalink: /blog/the-first-day/
 layout: post
 ---
