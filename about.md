@@ -10,7 +10,7 @@ layout: default
 
 
 
-你好，我叫 TaoJunYi，这个是名字的拼音，现在住在武汉。
+你好，我叫 TaoJunYi，这个是名字的拼音，现在住在武汉。联系我：me@taojunyi.com😁。
 
 
 
