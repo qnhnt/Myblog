@@ -1,5 +1,5 @@
 ---
-title: "second-hand-cmf-phone-1"
+title: "second-hand cmf phone 1"
 date: 2025-11-02 21:52:00 +0800
 description: buy a second-hand cmf phone 1
 tags: 100days-to-offload mobile-phone
