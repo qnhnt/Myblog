@@ -1,5 +1,5 @@
 ---
-title: "<The DOSE effect>"
+title: "The DOSE effect"
 date: 2025-11-22 22:26:00 +0800
 description: Read Tj Power's The DOSE effect.
 tags: 100days-to-offload book
