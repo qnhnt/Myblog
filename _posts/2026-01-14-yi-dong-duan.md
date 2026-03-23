@@ -2,7 +2,7 @@
 title: "移动端发布"
 description: 在安卓手机上使用 markor 和 github。
 date:  2026-01-14 22:27:00 +0800
-tags: 100days-to-offload mobile-phone
+tags: 100days-to-offload digital-products
 permalink: /blog/yi-dong-duan/
 layout: post
 ---
