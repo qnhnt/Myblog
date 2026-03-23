@@ -12,4 +12,4 @@ layout: post
     过年期间笔记本电脑都没拿出来过，前段时间开学后才把这个笔记本装上 mint 系统。换了新系统后比刚买来时的那个 Win10 流畅多了。X250 屏幕我不太习惯，除此之外其他也还好。
     今天安装上了 VPN，能流畅地登陆 Github 了，下载了一个桌面版先用着。看看后面再添置点什么软件。
 
-  **16 of [#100DaysToOffload](https://100daystooffload.com/).**
+    **16 of [#100DaysToOffload](https://100daystooffload.com/).**
