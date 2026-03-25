@@ -2,7 +2,7 @@
 title: "订阅终止"
 description: 虚拟卡被拒绝了。
 date:  2026-03-24 21:11:00 +0800
-tags: 100days-to-offload digital-products
+tags: 100days-to-offload subscribe
 permalink: /blog/ding-yue-zhong-zhi/
 layout: post
 ---
